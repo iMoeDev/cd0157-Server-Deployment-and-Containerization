@@ -22,7 +22,7 @@ phases:
 
       - echo 'Verifying kubectl installation'
       - file /usr/local/bin/kubectl  # Check architecture compatibility
-      - kubectl version --client
+      - bash /usr/local/bin/kubectl version --client
 
       - echo 'Setting up environment variables'
       - export PATH=$PWD/:$PATH
