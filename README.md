@@ -86,3 +86,8 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+
+## ELB Endpoint URL
+The application should be accessible at:
+http://aad61270dac984b4e91b6aa6f5fc53d4-462880278.us-east-2.elb.amazonaws.com
