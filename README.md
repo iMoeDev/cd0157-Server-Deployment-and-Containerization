@@ -90,4 +90,4 @@ For more detail about each of these steps, see the project lesson.
 
 ## ELB Endpoint URL
 The application should be accessible at:
-http://aad61270dac984b4e91b6aa6f5fc53d4-462880278.us-east-2.elb.amazonaws.com
+http://aef850a078de7443c9e8c59eab138a98-121179330.us-east-2.elb.amazonaws.com
